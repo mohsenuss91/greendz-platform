@@ -9,3 +9,4 @@ venv.bak
 
 # SQLite
 *.sqlite3
+instance/
