@@ -13,7 +13,7 @@ This document outlines the development roadmap for the GreenDZ platform. Our goa
 *   **Fr:** **Échafaudage et Documentation du Projet**: Mettre en place la structure fondamentale du projet, y compris les applications backend et frontend, les fichiers de documentation, et la configuration du dépôt Git.
 
 ### Milestone 2: Backend API (Flask & SQLite)
-*   **Status:** Planned
+*   **Status:** Complete
 *   **Description:** Develop the core API for registering and retrieving tree data.
 *   **Ar:** **واجهة برمجة التطبيقات الخلفية (Flask & SQLite)**: تطوير الواجهة البرمجية الأساسية لتسجيل واسترجاع بيانات الأشجار.
 *   **Fr:** **API Backend (Flask & SQLite)**: Développer l'API principale pour l'enregistrement et la récupération des données sur les arbres.
