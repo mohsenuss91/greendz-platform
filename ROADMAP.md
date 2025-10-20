@@ -7,7 +7,7 @@ This document outlines the development roadmap for the GreenDZ platform. Our goa
 ## **Phase 1: Core MVP (v0.1.0 - v0.4.0)**
 
 ### Milestone 1: Project Scaffolding & Documentation
-*   **Status:** In Progress
+*   **Status:** Complete
 *   **Description:** Establish the foundational project structure, including backend and frontend applications, documentation files, and Git repository setup.
 *   **Ar:** **الهيكلة الأولية للمشروع والتوثيق**: إنشاء البنية الأساسية للمشروع، بما في ذلك تطبيقات الواجهة الخلفية والأمامية، ملفات التوثيق، وإعداد مستودع Git.
 *   **Fr:** **Échafaudage et Documentation du Projet**: Mettre en place la structure fondamentale du projet, y compris les applications backend et frontend, les fichiers de documentation, et la configuration du dépôt Git.
