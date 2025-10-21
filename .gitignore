@@ -1,22 +1,60 @@
-# IDE files
-.idea/
-.vscode/
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+---
 
-# Build artifacts
-build/
-dist/
-*.egg-info/
+## 🧹 `.gitignore`
 
-# Environment
+Below is a universal `.gitignore` suited for Node.js full-stack projects (`backend` + `frontend`):
+
+```gitignore
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
 .env
-.venv
-env/
-venv/
-ENV/
-env.bak
-venv.bak
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+coverage/
+tmp/
+temp/
+.cache/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependencies lock files (optional)
+package-lock.json
+yarn.lock
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Misc
+*.zip
+*.tar
+*.tgz
+*.bak
